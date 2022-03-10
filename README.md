@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ansary M</h1>
 <h3 align="center">Im learning in coding</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansary29" alt="ansary29" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://ansportfolio.netlify.app](https://ansportfolio.netlify.app)
