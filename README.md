@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ansary M</h1>
 <h3 align="center">Im Interested in learning in coding</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansary29&label=Profile%20views&color=0e75b6&style=flat" alt="ansary29" /> </p>
+
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://ansportfolio.netlify.app](https://ansportfolio.netlify.app)
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-ansary-833aba184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-ansary-833aba184" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ansary-833aba184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ansary-833aba184" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
