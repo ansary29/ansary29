@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ansary M</h1>
-<h3 align="center">Im Learning a Full Stack Developer</h3>
+<h3 align="center">Im Interested in learning in coding</h3>
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
