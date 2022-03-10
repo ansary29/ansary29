@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ansary M</h1>
-<h3 align="center">Im learning in coding</h3>
-
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://ansportfolio.netlify.app](https://ansportfolio.netlify.app)
