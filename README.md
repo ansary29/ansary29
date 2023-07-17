@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ansary M</h1>
-- 🌱 I’m currently learning **Full Stack Developer**
+  
+- 🌱 I’m currently worked as  **Junior Developer**
 
 - 👨‍💻 All of my projects are available at [https://ansportfolio.netlify.app](https://ansportfolio.netlify.app)
 
-- 📫 How to reach me **thamimansary29@gmail.com**
+- 📫 How to reach me **mohamedansary29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
